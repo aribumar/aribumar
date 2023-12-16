@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aribumar
-- 👀 I’m interested in c, html and c++
-- 🌱 I’m currently learning c
+- 👀 I’m interested in c, html ,c++ and python
+- 🌱 I’m currently practing python
 - 💞️ I’m looking to collaborate on c devloper
 - 📫 How to reach me ig arib_umar
 
